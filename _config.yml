@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Jiaxin Xiao"
+title                    : "About me"
 title_separator          : "-"
-name                     : &name "Jiaxin Xiao"
+name                     : &name "About me"
 description              : &description "Personal academic homepage of Jiaxin Xiao"
 url                      : https://cookie519.github.io/jiaxinxiao.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
