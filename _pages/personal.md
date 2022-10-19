@@ -13,34 +13,34 @@ In my free time, I like traveling, skiing, high diving, and making all kinds of 
 ### Paper model of miku
 
 <div align="center">    
-    <img src="images/miku1.jpg" width=380> <img src="images/miku2.jpg" width=380>
-    <img src="images/miku3.jpg" width=380> <img src="images/miku4.jpg" width=380>
-    <img src="images/miku5.jpg" width=380> <img src="images/miku6.jpg" width=380>
-    <img src="images/miku7.jpg" width=380> <img src="images/miku8.jpg" width=380>
+    <img src="/images/miku1.jpg" width=380> <img src="/images/miku2.jpg" width=380>
+    <img src="/images/miku3.jpg" width=380> <img src="/images/miku4.jpg" width=380>
+    <img src="/images/miku5.jpg" width=380> <img src="/images/miku6.jpg" width=380>
+    <img src="/images/miku7.jpg" width=380> <img src="/images/miku8.jpg" width=380>
 </div>
 
 
 ### Pottery
 
 <div align="center">    
-    <img src="images/pottery.jpg"> 
+    <img src="/images/pottery.jpg"> 
 </div>
 
 
 ### Traditional Chinese fine-brush flower-and-bird painting
 
 <div align="center">    
-    <img src="images/painting.jpg" width=400> 
+    <img src="/images/painting.jpg" width=400> 
 </div>
 
 
 ### Hu Tao in Game Genshin Impact
 
-<iframe height=400 src="images/hutao.mp4">
+<iframe height=400 src="/images/hutao.mp4">
 
   
 ### LEGO (Friends)
 
 <div align="center">    
-    <img src="images/friends1.jpg"  height=293><img src="images/friends2.jpg" height=293> 
+    <img src="/images/friends1.jpg"  height=293><img src="images/friends2.jpg" height=293> 
 </div>
