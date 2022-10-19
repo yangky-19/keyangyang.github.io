@@ -22,7 +22,8 @@ Training neural networks for super-resolution MRI using noisy high-resolution re
     <br>
     <b>Figure 1. Neural network and training data.</b> SRNHR uses a modified 3D U-Net (MU-Net) composed of 3D convolution layers and ReLU activation layers with skip connection. MU-Net maps the input up-sampled low-resolution image volume to the residual volume between the input and output noisy high-resolution image volume (a). Exemplary coronal image slices from up-sampled low-resolution (b, i), high-SNR high-resolution (b, ii), and simulated noisy high-resolution images (b, ii-vi, with different standard deviations of noise) of a representative HCP subject are shown with enlarged views.
     <br>
-</div>
+</div>    
+
 
 <div>			
     <img src="/jiaxinxiao.github.io/images/figure2.png"
@@ -30,7 +31,8 @@ Training neural networks for super-resolution MRI using noisy high-resolution re
     <br>
     <b>Figure 2. Simulation image results.</b> Exemplary coronal image slices from native high-SNR high-resolution (a, i) and up-sampled low-resolution data (a, ii), and super-resolution results from neural networks trained with noisy high-resolution images (a, iii-vii, with different standard deviations of noise) are shown with enlarged views (b). The difference maps (c, d) depict the similarity compared to the native high-SNR high-resolution image. Mean absolute error (MAE), peak SNR (PSNR) and structural similarity index (SSIM) are listed to quantify the similarity (a).
     <br>
-</div>
+</div>    
+
 
 <div>			
     <img src="/jiaxinxiao.github.io/images/figure3.png"
@@ -38,7 +40,8 @@ Training neural networks for super-resolution MRI using noisy high-resolution re
     <br>
     <b>Figure 3. Simulation image similarity metrics.</b> Group mean (± standard deviation) of the whole-brain averaged mean absolute error (MAE) (a), peak SNR (PSNR) (b), and structural similarity index (SSIM) (c) of the up-sampled low-resolution images (usp) and results from neural networks trained with high-SNR and noisy high-resolution images across 15 evaluation subjects. Detailed values are listed in the table (d).
     <br>
-</div>
+</div>    
+
 
 <div>			
     <img src="/jiaxinxiao.github.io/images/figure4.png"
@@ -46,7 +49,8 @@ Training neural networks for super-resolution MRI using noisy high-resolution re
     <br>
     <b>Figure 4. Empirical image results.</b> Exemplary axial image slices from 10-repetition averaged high-resolution (a, i), single-repetition high-resolution (a, ii), up-sampled low-resolution images (a, iii), and super-resolution results from neural networks trained with 10-repetition averaged and single-repetition high-resolution images from another four subjects are shown with enlarged views (b). The difference maps (c, d) depict the similarity compared to the 10-repetition averaged high-resolution image. Mean absolute error (MAE), peak SNR (PSNR) and structural similarity index (SSIM) are listed to quantify the similarity (a).
     <br>
-</div>
+</div>   
+
 
 <div>			
     <img src="/jiaxinxiao.github.io/images/figure5.png"
@@ -54,7 +58,8 @@ Training neural networks for super-resolution MRI using noisy high-resolution re
     <br>
     <b>Figure 5. Empirical image similarity metrics.</b> Group mean (± standard deviation) of the whole-brain averaged mean absolute error (MAE) (a), peak SNR (PSNR) (b), and structural similarity index (SSIM) (c) of the up-sampled low-resolution images and super-resolution results of neural networks trained with 10-repetition averaged and single-repetition high-resolution images across five evaluation subjects. Detailed values are shown in the table (d). 
     <br>
-</div>
+</div>    
+
 
 High-frequency oscillations detection using Transformer-based neural network
 -----
@@ -73,7 +78,7 @@ High-frequency oscillations detection using Transformer-based neural network
     <br>
     <b>Figure.</b> Framework of Transformer-based HFO detection. 
     <br>
-</div>
+</div>    
 
 
 CNN model for sustained attention level evaluation using EEG
@@ -86,5 +91,6 @@ CNN model for sustained attention level evaluation using EEG
 * Constructed each convolutional block with a 1-d convolutional layer, a 1-d batch normalization (BN) layer, and a rectified linear unit (ReLU) layer;
 * Optimized convolutional blocks’ structure and achieved a subject-independent (SI) accuracy of 90%, which is reliable for the attention evaluation application.
 		
-<img src="/jiaxinxiao.github.io/images/figure7.png" width=800>
+<img src="/jiaxinxiao.github.io/images/figure7.png" width=800>     
+
 **Figure.** Design of the SaleNet. *[SaleNet: A low-power end-to-end CNN accelerator for sustained attention level evaluation using EEG](https://arxiv.org/abs/2209.01386)*
