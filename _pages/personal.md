@@ -8,7 +8,7 @@ author_profile: true
 
 Hobbies
 -----
-In my free time, I like traveling, skiing, high diving, and making all kinds of things by hand. Here are some of my works.   
+In my free time, I like traveling, skiing, diving, and making all kinds of things by hand. Here are some of my works.   
 
 ### Paper model of miku
 
@@ -42,5 +42,5 @@ In my free time, I like traveling, skiing, high diving, and making all kinds of 
 ### LEGO (Friends)
 
 <div align="center">    
-    <img src="/images/friends1.jpg"  height=280> <img src="images/friends2.jpg" height=280> 
+    <img src="/images/friends1.jpg"  height=300> <img src="/images/friends2.jpg" height=300> 
 </div>
