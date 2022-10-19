@@ -6,6 +6,15 @@ author_profile: true
 
 ---
 
+{% include base_path %}
+
+{% if post.header.teaser %}
+  {% capture teaser %}{{ post.header.teaser }}{% endcapture %}
+{% else %}
+  {% assign teaser = site.teaser %}
+{% endif %}
+
+
 Hobbies
 -----
 In my free time, I like traveling, skiing, diving, and making all kinds of things by hand. Here are some of my works.   
@@ -13,10 +22,20 @@ In my free time, I like traveling, skiing, diving, and making all kinds of thing
 ### Paper model of miku
 
 <div align="center">    
-    <img src="/images/miku1.jpg" width=400> <img src="/images/miku2.jpg" width=400>
-    <img src="/images/miku3.jpg" width=400> <img src="/images/miku4.jpg" width=400>
-    <img src="/images/miku5.jpg" width=400> <img src="/images/miku6.jpg" width=400>
-    <img src="/images/miku7.jpg" width=400> <img src="/images/miku8.jpg" width=400>
+    <img src=
+      {% if teaser contains "://" %}
+        "{{ teaser }}"
+      {% else %}
+        "{{ teaser | prepend: "/images/miku1.jpg" }}"
+      {% endif %}
+      width=400> 
+    <img src="/images/miku2.jpg" width=400>
+    <img src="/images/miku3.jpg" width=400> 
+    <img src="/images/miku4.jpg" width=400>
+    <img src="/images/miku5.jpg" width=400> 
+    <img src="/images/miku6.jpg" width=400>
+    <img src="/images/miku7.jpg" width=400> 
+    <img src="/images/miku8.jpg" width=400>
 </div>
 
 
