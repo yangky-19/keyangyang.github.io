@@ -11,18 +11,18 @@ redirect_from:
 Jiaxin Xiao is a senior student major in Electronic Engineering at Tsinghua University. She had done several projects on **biomedical signal processing** (including EEG, MRI) with **machine learning** methods. She is looking for a PhD position in EE/ECE/BME.
 
 Education
-======
+-----
 * B.E., Electronic Engineering, Tsinghua University, Sep. 2019-Present
 
 Awards
-======
+-----
 * Scholarship for Academic Excellence, 2021
 * Third Prize of the Intelligent Unmanned Aerial Vehicle Challenge in Tsinghua, 2021
 * Scholarship for Social Practice Excellence, 2020
 * Scholarship for Academic Excellence, 2020
 
 Skills
-======
+-----
 * Programming: MATLAB, Python, PyTorch, TensorFlow, C/C++, Verilog HDL, LATEX, git, ROS
 * Languages: Mandarin Chinese, English
 
