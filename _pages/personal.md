@@ -13,7 +13,7 @@ In my free time, I like traveling, skiing, diving, and making all kinds of thing
 ### Paper model of miku
 
 <div align="center">    
-    <img src="/images/miku1.jpg" width=400> 
+    <img src="/cookie519/jiaxinxiao.github.io/images/miku1.jpg" width=400> 
     <img src="/images/miku2.jpg" width=400>
     <img src="/images/miku3.jpg" width=400> 
     <img src="/images/miku4.jpg" width=400>
