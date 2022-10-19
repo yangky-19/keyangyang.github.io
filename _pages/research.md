@@ -22,7 +22,6 @@ High-frequency oscillations detection using Transformer-based neural network
 6/2022 - Present   
 
 **Advisor: [Dominique Duncan](https://sites.usc.edu/duncanlab/), Assistant Professor of Neurology, Neuroscience, and Biomedical Engineering, University of Southern California**
-
 * Designed independently a Transformer-based neural network for the EEG high-frequency oscillation (HFO) detection;
 * Pre-processed EEG signals using Matlab, added a linear projection layer before the Transformer, and redesigned the Encoder-Decoder layer to give specific detections of HFO segments; 
 * Obtained preliminary results that show the outperformance over the four automatic detectors that are widely used in labs and the previously proposed CNN-based detector; 
@@ -33,8 +32,7 @@ CNN model for sustained attention level evaluation using EEG
 
 09/2021 – 12/2021   
 
-**[Milin Zhang](https://www.ee.tsinghua.edu.cn/en/info/1068/1297.htm), Associate Professor of Electronic Engineering, Tsinghua University**
-
+**Advisor: [Milin Zhang](https://www.ee.tsinghua.edu.cn/en/info/1068/1297.htm), Associate Professor of Electronic Engineering, Tsinghua University**
 * Built a CNN for attention level classification, consisting of four convolutional blocks, a GAP layer, and a linear layer; 
 * Constructed each convolutional block with a 1-d convolutional layer, a 1-d batch normalization (BN) layer, and a rectified linear unit (ReLU) layer;
 * Optimized convolutional blocks’ structure and achieved a subject-independent (SI) accuracy of 90%, which is reliable for the attention evaluation application.
