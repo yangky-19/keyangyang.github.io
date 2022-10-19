@@ -85,3 +85,6 @@ CNN model for sustained attention level evaluation using EEG
 * Built a CNN for attention level classification, consisting of four convolutional blocks, a GAP layer, and a linear layer; 
 * Constructed each convolutional block with a 1-d convolutional layer, a 1-d batch normalization (BN) layer, and a rectified linear unit (ReLU) layer;
 * Optimized convolutional blocks’ structure and achieved a subject-independent (SI) accuracy of 90%, which is reliable for the attention evaluation application.
+		
+<img src="/jiaxinxiao.github.io/images/figure7.png" width=800>
+**Figure.** Design of the SaleNet. *[SaleNet: A low-power end-to-end CNN accelerator for sustained attention level evaluation using EEG](https://arxiv.org/abs/2209.01386)*
