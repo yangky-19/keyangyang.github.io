@@ -9,6 +9,7 @@ author_profile: true
 Training neural networks for super-resolution MRI using noisy high-resolution reference data
 -----
 8/2022 - Present   
+
 **Advisor: [Qiyuan Tian](https://www.nmr.mgh.harvard.edu/~qt012/index.html), Instructor in Radiology, Martinos Center for Biomedical Imaging, Massachusetts General Hospital, Harvard Medical School**
 * Designed and conducted both simulation and empirical data experiments and demonstrated comparable effectiveness in the training with noisy high-resolution reference data and clean data in super-resolution tasks;
 * Simulated the low-resolution image volume and noisy high-resolution image volume, and realized the neural network MU-Net based on Tensorflow; 
@@ -19,6 +20,7 @@ High-frequency oscillations detection using Transformer-based neural network
 -----
 
 6/2022 - Present   
+
 **Advisor: [Dominique Duncan](https://sites.usc.edu/duncanlab/), Assistant Professor of Neurology, Neuroscience, and Biomedical Engineering, University of Southern California**
 
 * Designed independently a Transformer-based neural network for the EEG high-frequency oscillation (HFO) detection;
@@ -30,6 +32,7 @@ CNN model for sustained attention level evaluation using EEG
 -----
 
 09/2021 – 12/2021   
+
 **[Milin Zhang](https://www.ee.tsinghua.edu.cn/en/info/1068/1297.htm), Associate Professor of Electronic Engineering, Tsinghua University**
 
 * Built a CNN for attention level classification, consisting of four convolutional blocks, a GAP layer, and a linear layer; 
