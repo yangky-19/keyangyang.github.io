@@ -14,38 +14,37 @@ In my free time, I like traveling, skiing, diving, and making all kinds of thing
 
 <div align="center">    
     <img src="/jiaxinxiao.github.io/images/miku1.jpg" width=400> 
-    <img src="/images/miku2.jpg" width=400>
-    <img src="/images/miku3.jpg" width=400> 
-    <img src="/images/miku4.jpg" width=400>
-    <img src="/images/miku5.jpg" width=400> 
-    <img src="/images/miku6.jpg" width=400>
-    <img src="/images/miku7.jpg" width=400> 
-    <img src="/images/miku8.jpg" width=400>
+    <img src="/jiaxinxiao.github.io/images/miku2.jpg" width=400>
+    <img src="/jiaxinxiao.github.io/images/miku3.jpg" width=400> 
+    <img src="/jiaxinxiao.github.io/images/miku4.jpg" width=400>
+    <img src="/jiaxinxiao.github.io/images/miku5.jpg" width=400> 
+    <img src="/jiaxinxiao.github.io/images/miku6.jpg" width=400>
+    <img src="/jiaxinxiao.github.io/images/miku7.jpg" width=400> 
+    <img src="/jiaxinxiao.github.io/images/miku8.jpg" width=400>
 </div>
 
 
 ### Pottery
 
 <div align="center">    
-    <img src="/images/pottery.jpg" height=500> 
+    <img src="/jiaxinxiao.github.io/images/pottery.jpg" height=500> 
 </div>
 
 
 ### Traditional Chinese fine-brush flower-and-bird painting
 
 <div align="center">    
-    <img src="/images/painting.jpg" width=400> 
+    <img src="/jiaxinxiao.github.io/images/painting.jpg" width=400> 
 </div>
 
 
 ### Hu Tao in Game Genshin Impact
 
-<iframe height=400 src="/images/hutao.mp4">
-</iframe>
+<iframe height=400 src="/jiaxinxiao.github.io/images/hutao.mp4">
 
   
 ### LEGO (Friends)
 
 <div align="center">    
-    <img src="/images/friends1.jpg"  height=350> <img src="/images/friends2.jpg" height=350> 
+    <img src="/jiaxinxiao.github.io/images/friends1.jpg"  height=350> <img src="/jiaxinxiao.github.io/images/friends2.jpg" height=350> 
 </div>
