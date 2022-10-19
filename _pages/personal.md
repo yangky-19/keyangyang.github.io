@@ -42,5 +42,5 @@ In my free time, I like traveling, skiing, high diving, and making all kinds of 
 ### LEGO (Friends)
 
 <div align="center">    
-    <img src="/images/friends1.jpg"  height=300><img src="images/friends2.jpg" height=300> 
+    <img src="/images/friends1.jpg"  height=280> <img src="images/friends2.jpg" height=280> 
 </div>
