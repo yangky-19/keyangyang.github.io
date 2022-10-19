@@ -7,4 +7,4 @@ redirect_from:
   - /resume
 ---
 
-Download my CV [here](https://github.com/cookie519/jiaxinxiao.github.io/blob/master/files/CV_JiaxinXiao.pdf).
+Download my CV [here](https://cookie519/jiaxinxiao.github.io/files/CV_JiaxinXiao.pdf).
