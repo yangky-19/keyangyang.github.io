@@ -3,14 +3,15 @@ layout: archive
 title: "Publications"
 permalink: /publications/
 author_profile: true
+
 ---
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
+[SRNHR: Training neural networks for super-resolution MRI using noisy high-resolution reference data](https://arxiv.org/abs/2209.01386)
+======
+**Jiaxin Xiao**, Zihan Li, Berkin Bilgic, Jonathan R. Polimeni, Susie Huang, Qiyuan Tian
+To be submitted to *ISMRM*
 
-{% include base_path %}
-
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+[SaleNet: A low-power end-to-end CNN accelerator for sustained attention level evaluation using EEG](https://arxiv.org/abs/2209.01386)
+======
+**Jiaxin Xiao**, Zihan Li, Berkin Bilgic, Jonathan R. Polimeni, Susie Huang, Qiyuan Tian=
+*IEEE International Symposium on Circuits and Systems (ISCAS),* 2022
