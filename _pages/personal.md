@@ -37,10 +37,11 @@ In my free time, I like traveling, skiing, diving, and making all kinds of thing
 ### Hu Tao in Game Genshin Impact
 
 <iframe height=400 src="/images/hutao.mp4">
+</iframe>
 
   
 ### LEGO (Friends)
 
 <div align="center">    
-    <img src="/images/friends1.jpg"  height=300> <img src="/images/friends2.jpg" height=300> 
+    <img src="/images/friends1.jpg"  height=350> <img src="/images/friends2.jpg" height=350> 
 </div>
