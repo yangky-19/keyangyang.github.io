@@ -8,21 +8,29 @@ redirect_from:
   - /about.html
 ---
 
-Jiaxin Xiao is a senior student major in Electronic Engineering at Tsinghua University. She has done several projects on **biomedical signal processing** (including EEG, MRI) with **machine learning** methods. She is looking for a PhD position in EE/ECE/BME. Her CV is [here](/jiaxinxiao.github.io/files/CV_JiaxinXiao.pdf).
+Keyang Yang is a senior student major in Engineering Mechanics at Tsinghua University. He is looking for a PhD position in ME/AA. His CV is [here](/keyangyang.github.io/files/CV_202210.pdf).
 
 Education
 -----
-* B.E., Electronic Engineering, Tsinghua University, Sep. 2019-Present
+* B.E., Engineering Mechanics, Tsinghua University, Sep. 2019-Present
 
 Awards
 -----
-* Scholarship for Academic Excellence, 2021
-* Third Prize of the Intelligent Unmanned Aerial Vehicle Challenge in Tsinghua, 2021
-* Scholarship for Social Practice Excellence, 2020
-* Scholarship for Academic Excellence, 2020
+* National Scholarship, highest scholarship for topmost 0.5% undergrads in China, 2022
+* Grand Prize, the 3rd International Engineering Mechanics Contest (Asian Region), 2022
+* First Prize, the 13th China Mechanics Competition in Honour of Zhou Peiyuan, 2021
+* Scholarship for Comprehensive Excellence, 2021
+* Scholarship for Technological Innovation, 2021
+* The ”December 9th” Scholarship, 2020
 
 Skills
 -----
-* Programming: MATLAB, Python, PyTorch, TensorFlow, C/C++, Verilog HDL, LATEX, git, ROS
+* Programming: MATLAB, C, Python, ABAQUS, COMSOL, Solidworks, AutoCAD, LaTeX
 * Languages: Mandarin Chinese, English
+
+Research Interests
+-----
+* Solid Mechanics
+* Computational Mechanics
+* Soft Matter Mechanics
 
