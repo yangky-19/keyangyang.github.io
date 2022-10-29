@@ -6,47 +6,15 @@ author_profile: true
 
 ---
 
-Training neural networks for super-resolution MRI using noisy high-resolution reference data
+Simulation of Ring Origami Structures with Larger Packing Ratios
 -----
-8/2022 - Present   
+6/2022 - Present   
 
-**Advisor: [Qiyuan Tian](https://www.nmr.mgh.harvard.edu/~qt012/index.html), Instructor in Radiology, Martinos Center for Biomedical Imaging, Massachusetts General Hospital, Harvard Medical School**
-* Designed and conducted both simulation and empirical data experiments and demonstrated comparable effectiveness in the training with noisy high-resolution reference data and clean data in super-resolution tasks;
-* Simulated the low-resolution image volume and noisy high-resolution image volume, and realized the neural network MU-Net based on Tensorflow; 
-* Proposed a deep learning-based super-resolution method that does not require high-SNR reference data and can potentially reduce the tedious and repeated collection to acquire clean high-resolution MRI images. 
-* Currently working on paper writing.
-
-<div>			
-    <img src="/keyangyang.github.io/images/figure1.png"
-         width=800>
-    <br>
-    <b>Figure 1. Neural network and training data.</b> SRNHR uses a modified 3D U-Net (MU-Net) composed of 3D convolution layers and ReLU activation layers with skip connection. MU-Net maps the input up-sampled low-resolution image volume to the residual volume between the input and output noisy high-resolution image volume (a). Exemplary coronal image slices from up-sampled low-resolution (b, i), high-SNR high-resolution (b, ii), and simulated noisy high-resolution images (b, ii-vi, with different standard deviations of noise) of a representative HCP subject are shown with enlarged views.
-</div>    
-<br>   
-   
-<div>			
-    <img src="/keyangyang.github.io/images/figure2.png"
-         width=800>
-    <br>
-    <b>Figure 2. Simulation image results.</b> Exemplary coronal image slices from native high-SNR high-resolution (a, i) and up-sampled low-resolution data (a, ii), and super-resolution results from neural networks trained with noisy high-resolution images (a, iii-vii, with different standard deviations of noise) are shown with enlarged views (b). The difference maps (c, d) depict the similarity compared to the native high-SNR high-resolution image. Mean absolute error (MAE), peak SNR (PSNR) and structural similarity index (SSIM) are listed to quantify the similarity (a).
-</div>    
-<br>   
-   
-<div>			
-    <img src="/keyangyang.github.io/images/figure3.png"
-         width=800>
-    <br>
-    <b>Figure 3. Simulation image similarity metrics.</b> Group mean (± standard deviation) of the whole-brain averaged mean absolute error (MAE) (a), peak SNR (PSNR) (b), and structural similarity index (SSIM) (c) of the up-sampled low-resolution images (usp) and results from neural networks trained with high-SNR and noisy high-resolution images across 15 evaluation subjects. Detailed values are listed in the table (d).
-</div>    
-<br>   
-   
-<div>			
-    <img src="/keyangyang.github.io/images/figure4.png"
-         width=800>
-    <br>
-    <b>Figure 4. Empirical image results.</b> Exemplary axial image slices from 10-repetition averaged high-resolution (a, i), single-repetition high-resolution (a, ii), up-sampled low-resolution images (a, iii), and super-resolution results from neural networks trained with 10-repetition averaged and single-repetition high-resolution images from another four subjects are shown with enlarged views (b). The difference maps (c, d) depict the similarity compared to the 10-repetition averaged high-resolution image. Mean absolute error (MAE), peak SNR (PSNR) and structural similarity index (SSIM) are listed to quantify the similarity (a).
-</div>   
-<br>   
+**Advisor: [Renee Zhao](https://profiles.stanford.edu/264302), Assistant Professor of Mechanical Engineering, Stanford University**
+* Created ABAQUS models to simulate the packing process of ring origami structures with different shapes
+* Developed Python programs for parametric modeling, data export and post-processing
+* Obtained the relationship between the loading curves and the geometric parameters, loading positions,
+cross-sectional shapes, etc. during the folding process
    
 <div>			
     <img src="/keyangyang.github.io/images/figure5.png"
@@ -56,16 +24,16 @@ Training neural networks for super-resolution MRI using noisy high-resolution re
 </div>    
 <br>
 
-High-frequency oscillations detection using Transformer-based neural network
+Instability Analysis of Active Soft Material Spherical Shell
 -----
 
-6/2022 - Present   
+7/2021 - 6/2022   
 
-**Advisor: [Dominique Duncan](https://sites.usc.edu/duncanlab/), Assistant Professor of Neurology, Neuroscience, and Biomedical Engineering, University of Southern California**
-* Designed independently a Transformer-based neural network for the EEG high-frequency oscillation (HFO) detection;
-* Pre-processed EEG signals using Matlab, added a linear projection layer before the Transformer, and redesigned the Encoder-Decoder layer to give specific detections of HFO segments; 
-* Obtained preliminary results that show the outperformance over the four automatic detectors that are widely used in labs and the previously proposed CNN-based detector; 
-* Currently working on further model optimization and validation.
+**Advisor: [Bo Li](https://www.hy.tsinghua.edu.cn/hyen/info/1162/1222.htm), Associate Professor of Aerospace Engineering, Tsinghua University**
+* Applied the theory of active soft matter to the instability morphology problems in biological systems
+* Set up a model of active soft spherical shell, derived the governing equations of shell surface instability using
+different active material theories and numerically solved the instability morphology with COMSOL
+* Explained the relationship between morphogenesis and defects during the regeneration of hydroids
 
 <div>			
     <img src="/keyangyang.github.io/images/figure6.png"
@@ -75,15 +43,17 @@ High-frequency oscillations detection using Transformer-based neural network
 </div>    
 <br>   
    
-CNN model for sustained attention level evaluation using EEG
+Realization of Macro-scale Superlubricity Based on Micro-Contacts
 -----
 
 09/2021 – 12/2021   
 
-**Advisor: [Milin Zhang](https://www.ee.tsinghua.edu.cn/en/info/1068/1297.htm), Associate Professor of Electronic Engineering, Tsinghua University**
-* Built a CNN for attention level classification, consisting of four convolutional blocks, a GAP layer, and a linear layer; 
-* Constructed each convolutional block with a 1-d convolutional layer, a 1-d batch normalization (BN) layer, and a rectified linear unit (ReLU) layer;
-* Optimized convolutional blocks’ structure and achieved a subject-independent (SI) accuracy of 90%, which is reliable for the attention evaluation application.
+**Advisor: [Ming Ma](https://me.tsinghua.edu.cn/en/info/1054/1328.htm), Associate Professor of Mechanical Engineering, Tsinghua University**
+* Constructed tens of superlubric systems at the graphite/2D materials (graphite, WS2, SiO2) interface
+* Assembled several micro-scale superlubric contact to expand the area of the superlubric system
+* Developed a new method to connect micro graphite flakes with PDMS and determined the optimal experimental
+parameters in preparation of PDMS film
+* Calculated the deformation of PDMS film under a given load with COMSOL
 
 <div>			
     <img src="/keyangyang.github.io/images/figure7.png"
