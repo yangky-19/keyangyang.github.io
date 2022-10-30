@@ -21,12 +21,11 @@ In my personal life, I like sports and Chinese calligraphy. I am a great fan of 
 <div>			
     <img src="/keyangyang.github.io/images/calli1.png"
          width=400>
-    <br>
 </div>    
 <br> 
 
 <div>			
-    <img src="/keyangyang.github.io/images/football.png"
+    <img src="/keyangyang.github.io/images/calli2.png"
          width=800>
     <br>
     <b>Figure.</b> My Chinese calligraphy works 
