@@ -21,10 +21,7 @@ In my personal life, I like sports and Chinese calligraphy. I am a great fan of 
 <div>			
     <img src="/keyangyang.github.io/images/calli1.jpg"
          width=400>
-</div>    
-<br> 
-
-<div>			
+    <br>
     <img src="/keyangyang.github.io/images/calli2.jpg"
          width=800>
     <br>
