@@ -53,7 +53,7 @@ Realization of Macro-scale Superlubricity Based on Micro-Contacts
 * Assembled several micro-scale superlubric contact to expand the area of the superlubric system
 * Developed a new method to connect micro graphite flakes with PDMS and determined the optimal experimental
 parameters in preparation of PDMS film
-* Calculated the deformation of PDMS film under a given load with COMSOL
+* Simulated the deformation of PDMS film under a given load with COMSOL
 
 <div>			
     <img src="/keyangyang.github.io/images/figure7.png"
