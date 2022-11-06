@@ -17,10 +17,18 @@ Simulation of Ring Origami Structures with Larger Packing Ratios
 cross-sectional shapes, etc. during the folding process
    
 <div>			
-    <img src="/keyangyang.github.io/images/figure5.png"
-         width=800>
+    <img src="/keyangyang.github.io/images/figure4.png"
+         width=700>
     <br>
-    <b>Figure 5. Empirical image similarity metrics.</b> Group mean (± standard deviation) of the whole-brain averaged mean absolute error (MAE) (a), peak SNR (PSNR) (b), and structural similarity index (SSIM) (c) of the up-sampled low-resolution images and super-resolution results of neural networks trained with 10-repetition averaged and single-repetition high-resolution images across five evaluation subjects. Detailed values are shown in the table (d). 
+    <b>Figure. 1. FEA simulation of ring origami. (a) Geometrical structure and parameters of ring origami. (b) One of the loading methods. (c) Isometric view of the ring during the folding process.
+</div>    
+<br>
+
+<div>			
+    <img src="/keyangyang.github.io/images/figure5.png"
+         width=700>
+    <br>
+    <b>Figure. 2. Loading phase diagram for different combinations of geometrical parameters. The normalized moment MR/EJ is independent of the R/t values, which can be explained by quantitative analysis.
 </div>    
 <br>
 
@@ -36,10 +44,10 @@ different active material theories and numerically solved the instability morpho
 * Explained the relationship between morphogenesis and defects during the regeneration of hydroids
 
 <div>			
-    <img src="/keyangyang.github.io/images/figure6.png"
+    <img src="/keyangyang.github.io/images/figure3.png"
          width=800>
     <br>
-    <b>Figure.</b> Framework of Transformer-based HFO detection. 
+    <b>Figure. 3. Surface instability of the spherical shell obtained from the simulation.
 </div>    
 <br>   
    
@@ -56,9 +64,17 @@ parameters in preparation of PDMS film
 * Simulated the deformation of PDMS film under a given load with COMSOL
 
 <div>			
-    <img src="/keyangyang.github.io/images/figure7.png"
+    <img src="/keyangyang.github.io/images/figure1.png"
          width=800>
     <br>
-    <b>Figure.</b> Design of the SaleNet. <i><a href="https://arxiv.org/abs/2209.01386">SaleNet: A low-power end-to-end CNN accelerator for sustained attention level evaluation using EEG</a></i>
+    <b>Figure. 4. Solution to realize macro-scale superlubricity.
+</div> 
+<br>
+   
+<div>			
+    <img src="/keyangyang.github.io/images/figure2.png"
+         width=500>
+    <br>
+    <b>Figure. 5. 
 </div> 
    
