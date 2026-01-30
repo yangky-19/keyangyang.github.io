@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Keyang Yang"
   avatar           : "profile.jpg"
-  bio              : "B.E. in Engineering Mechanics, Tsinghua University"
-  location         : "Beijing, P.R. China"
+  bio              : "PhD Candidate in Mechanical Engineering, California Institute of Technology"
+  location         : "Pasadena, CA"
   employer         :
   pubmed           : 
   googlescholar    : 
-  email            : "yangkeyangthu@gmail.com"
+  email            : "yangky@caltech.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "yangky-19"
+  github           : #"yangky-19"
   google_plus      :
   keybase          :
   instagram        :
