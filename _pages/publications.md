@@ -6,6 +6,6 @@ author_profile: true
 
 ---
 
-Realization of large-packing-ratio ring origami by multi-point loading method
+Inference of 	Interatomic Potential from Atomic Configurations
 -----
 Under Preparation
