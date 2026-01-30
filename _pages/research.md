@@ -20,6 +20,7 @@ Jun. 2024 - Present
          width=700>
     <br>
     Figure. 1. Spatial resolution of crystal plasticity data affects the reconstruction error.
+</div>    
 <br>
 
 Inference of Interatomic Potential from Atomic Configurations
