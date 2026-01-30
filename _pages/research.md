@@ -48,7 +48,7 @@ cross-sectional shapes, etc. during the folding process
     <img src="/keyangyang.github.io/images/figure4.png"
          width=700>
     <br>
-    Figure. 1. FEA simulation of ring origami. (a) Geometrical structure and parameters of ring origami. (b) One of the loading methods. (c) Isometric view of the ring during the folding process.
+    Figure. 2. FEA simulation of ring origami. (a) Geometrical structure and parameters of ring origami. (b) One of the loading methods. (c) Isometric view of the ring during the folding process.
 </div>    
 <br>
 
@@ -56,7 +56,7 @@ cross-sectional shapes, etc. during the folding process
     <img src="/keyangyang.github.io/images/figure5.png"
          width=700>
     <br>
-    Figure. 2. Loading phase diagram for different combinations of geometrical parameters. The normalized moment MR/EJ is independent of the R/t values, which can be explained by quantitative analysis.
+    Figure. 3. Loading phase diagram for different combinations of geometrical parameters. The normalized moment MR/EJ is independent of the R/t values, which can be explained by quantitative analysis.
 </div>    
 <br>
 
@@ -75,7 +75,7 @@ different active material theories and numerically solved the instability morpho
     <img src="/keyangyang.github.io/images/figure3.png"
          width=800>
     <br>
-    Figure. 3. Surface instability of the spherical shell obtained from the simulation.
+    Figure. 4. Surface instability of the spherical shell obtained from the simulation.
 </div>    
 <br>   
    
@@ -95,7 +95,7 @@ parameters in preparation of PDMS film
     <img src="/keyangyang.github.io/images/figure1.png"
          width=800>
     <br>
-    Figure. 4. Solution to realize macro-scale superlubricity.
+    Figure. 5. Solution to realize macro-scale superlubricity.
 </div> 
 <br>
    
@@ -103,6 +103,6 @@ parameters in preparation of PDMS film
     <img src="/keyangyang.github.io/images/figure2.png"
          width=500>
     <br>
-    Figure. 5. The PDMS film I prepared (a) before optimization and (b) after optimization. The thickness of the film is reduced to less than 1 micron.
+    Figure. 6. The PDMS film I prepared (a) before optimization and (b) after optimization. The thickness of the film is reduced to less than 1 micron.
 </div> 
    
